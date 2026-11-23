@@ -1,0 +1,26 @@
+.gradle/
+.kotlin/
+.idea/
+*.iml
+local.properties
+build/
+*.jks
+*.keystore
+
+# Android and IDE-generated files
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.mapping
+*.log
+*.hprof
+
+# Local signing and release output
+keystore.properties
+release/
+
+
+/prompts/
+/README_START_HERE.md

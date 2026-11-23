@@ -1,0 +1,12 @@
+<resources>
+    <string name="animation_scale">Animation scale</string>
+    <string name="developer_options">Developer options</string>
+    <string name="private_dns">Private DNS</string>
+    <string name="screen_timeout">Screen Timeout</string>
+    <string name="app_name">Nerd Toggles</string>
+    <string-array name="destinations">
+        <item>Controls</item>
+        <item>Setup</item>
+        <item>Device</item>
+    </string-array>
+</resources>
